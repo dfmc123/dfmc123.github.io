@@ -3,9 +3,9 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Minelite",
     // 站点描述
-    description: "Hello World",
+    description: "Blackcatの秘密基地",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
@@ -14,16 +14,16 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "Blackcat",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "mcdfnb@163.com",
+      link: "minelite.top",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "蜀ICP备2024114642号-1",
   // 建站日期
-  since: "2020-07-28",
+  since: "2025-10-21",
   // 每页文章数据
   postSize: 8,
   // inject
