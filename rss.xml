@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Minelite</title>
+        <link>https://blog.imsyy.top</link>
+        <description>Blackcatの秘密基地</description>
+        <lastBuildDate>Wed, 22 Oct 2025 11:32:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Blackcat</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present Blackcat</copyright>
+        <item>
+            <title><![CDATA[标题]]></title>
+            <link>https://blog.imsyy.top/posts/2025-10/1021</link>
+            <guid>https://blog.imsyy.top/posts/2025-10/1021</guid>
+            <pubDate>Invalid Date</pubDate>
+            <description><![CDATA[描述]]></description>
+            <author>mcdfnb@163.com (Blackcat)</author>
+        </item>
+        <item>
+            <title><![CDATA[标题]]></title>
+            <link>https://blog.imsyy.top/posts/2025-10/1022</link>
+            <guid>https://blog.imsyy.top/posts/2025-10/1022</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[标题说得对]]></description>
+            <author>mcdfnb@163.com (Blackcat)</author>
+        </item>
+    </channel>
+</rss>
